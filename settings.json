@@ -5,17 +5,17 @@
     "password": "",
     "type": "offline"
   },
-  "server":alioui3893.at
+  "server":
     "ip": 
     "port": 51865,
     "version": "1.21.1"
-  },
+  
   "position": {
     "enabled": true,
     "x": 0,
     "y": 100,
     "z": 0
-  },
+
   "utils": {
     "auto-auth": {
       "enabled": true,
