@@ -5,9 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "alioui3893.aternos.me
-اتصال",
+  "server":alioui3893.aternos.me
+اتصال {
+    "ip": 
+ا",
     "port": 51865,
     "version": "1.21.1"
   },
